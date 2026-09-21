@@ -12,10 +12,10 @@
 1. Ouvre Steam
 2. Clique sur ton profil en haut à droite
 3. Clique sur **"Détails du compte"**
-4. Ton Steam ID est affiché sous ton nom (ex: `113979346`)
+4. Ton Steam ID est affiché sous ton nom (ex: `123456789`)
 
 Ou via l'URL de ton profil Steam :  
-`https://steamcommunity.com/profiles/76561198074245074`  
+`https://steamcommunity.com/profiles/76561198XXXXXXXXX`  
 → Les 17 derniers chiffres = ton SteamID64  
 → Pour le dossier userdata, utilise le nombre après `/userdata/` dans l'explorateur
 
