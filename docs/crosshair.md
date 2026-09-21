@@ -26,7 +26,7 @@ Mon crosshair utilise `cl_crosshairgap_useweaponvalue true` — le gap s'adapte 
 
 ## Commandes console — Copier-coller dans CS2
 
-Ouvre la console CS2 (touche `` ` ``) et colle ces commandes :
+Ouvre la console CS2 (touche ` ` `) et colle ces commandes :
 
 ```
 cl_crosshairstyle 2
@@ -59,4 +59,4 @@ cl_crosshair_recoil false
 - **Cyan (R:50 G:255 B:255)** — haute visibilité sur tous les environnements de maps compétitives
 - **Contour activé** — reste lisible sur les fonds clairs (ciel, murs blancs)
 - **Recoil false** — crosshair fixe, le spray control est appris manuellement
-- **useweaponvalue true** — le gap s'adapte légèrement selon l'arme, ce qui donne un retour visuel naturel sur l'arme équipée
+- **useweaponvalue true** — le gap s'adapte légèrement selon l'arme, ce qui donne un retour visuel naturel
