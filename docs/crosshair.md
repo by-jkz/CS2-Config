@@ -1,13 +1,19 @@
 # 🎯 Crosshair — by.jkz
 
+## Pourquoi pas de code de partage CS2 ?
+
+Mon crosshair utilise `cl_crosshairgap_useweaponvalue true` — le gap s'adapte automatiquement selon l'arme équipée. Ce comportement est propre à chaque arme dans CS2 et ne se transfère pas fidèlement via le code de partage. Les commandes console ci-dessous garantissent un résultat 100% identique.
+
+---
+
 ## Paramètres
 
 | Paramètre | Valeur |
 |---|---|
 | Style | **2** — Statique classique |
 | Taille | **1.5** |
-| Gap | **-2** |
-| Gap useweapon | **true** — s'adapte selon l'arme |
+| Gap | **-2** (s'adapte selon l'arme) |
+| Gap useweaponvalue | **true** — comportement intentionnel |
 | Épaisseur | **1** |
 | Point central | **Non** |
 | Contour | **Oui**, épaisseur 1 |
@@ -16,11 +22,11 @@
 | T-shape | **Non** |
 | Recoil dynamique | **Non** |
 
-> ℹ️ `cl_crosshairgap_useweaponvalue true` signifie que le gap s'adapte légèrement selon l'arme équipée. C'est un comportement intentionnel.
-
 ---
 
-## Commandes console pour copier-coller
+## Commandes console — Copier-coller dans CS2
+
+Ouvre la console CS2 (touche `` ` ``) et colle ces commandes :
 
 ```
 cl_crosshairstyle 2
@@ -42,13 +48,15 @@ cl_crosshair_t false
 cl_crosshair_recoil false
 ```
 
+> Ces commandes sont également dans `autoexec.cfg` et se chargent automatiquement au lancement de CS2.
+
 ---
 
-## Exporter / Importer le crosshair dans CS2
+## Pourquoi ce crosshair ?
 
-Pour partager ton crosshair avec d'autres joueurs :
-1. CS2 → Paramètres → Crosshair
-2. Clique sur **"Partager le code"**
-3. Copie le code généré et ajoute-le ici
-
-> Code crosshair : *(générer depuis le jeu et ajouter ici)*
+- **Style 2 statique** — ne bouge pas pendant le mouvement, idéal pour le placement de crosshair conscient
+- **Gap -2** — crosshair très serré, précis pour les duels longue distance
+- **Cyan (R:50 G:255 B:255)** — haute visibilité sur tous les environnements de maps compétitives
+- **Contour activé** — reste lisible sur les fonds clairs (ciel, murs blancs)
+- **Recoil false** — crosshair fixe, le spray control est appris manuellement
+- **useweaponvalue true** — le gap s'adapte légèrement selon l'arme, ce qui donne un retour visuel naturel sur l'arme équipée
