@@ -69,7 +69,6 @@
 		"joy_axisz_relative"		"false"
 		"joy_circle_correct_mode"		"1"
 		"joy_circle_correct_mode_vehicle"		"2"
-	
 		"joy_forward_sensitivity"		"1"
 		"joy_movement_stick"		"false"
 		"joy_pitch_sensitivity"		"3"
