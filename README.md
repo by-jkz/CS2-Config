@@ -49,7 +49,7 @@ C:\Program Files (x86)\Steam\userdata\[TON_STEAM_ID]\730\local\cfg\
 > ⚠️ Mets `cs2_video.txt` en **lecture seule** après installation
 
 ### 3️⃣ Profil clavier M36HE
-Importer `cfg/Keyboard-cfg-byclaude.json` dans le logiciel **Attack Shark**
+Importer `cfg/M36HE-CS2.json` dans le logiciel **Attack Shark**
 
 ### 4️⃣ Options de lancement Steam
 ```
