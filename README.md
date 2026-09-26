@@ -25,7 +25,7 @@ CS2-Config/
 ├── cfg/
 │   ├── cs2_user_convars_0_slot0.vcfg  ← Crosshair + sensibilité (Steam)
 │   ├── cs2_user_keys_0_slot0.vcfg     ← Binds (Steam)
-│   └── Keyboard-cfg-byclaude.json    ← Profil clavier M36HE (Attack Shark)
+│   └── M36HE-CS2.json                ← Profil clavier M36HE (Attack Shark)
 └── docs/
     ├── installation.md                ← Guide d'installation détaillé
     ├── hardware.md                    ← Setup hardware + NVIDIA
