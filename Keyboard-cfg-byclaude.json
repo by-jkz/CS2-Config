@@ -2020,17 +2020,9 @@
       },
       {
         "axisType": 0,
-        "isWholeFast": true,
-        "isRampageMode": false,
-        "triggerKeyStroke": 0.2,
-        "pressRT": 0.2,
-        "releaseRT": 0.2
-      },
-      {
-        "axisType": 0,
         "isWholeFast": false,
         "isRampageMode": false,
-        "triggerKeyStroke": 0.5,
+        "triggerKeyStroke": 0.8,
         "pressRT": 0,
         "releaseRT": 0
       },
@@ -2038,7 +2030,7 @@
         "axisType": 0,
         "isWholeFast": false,
         "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
+        "triggerKeyStroke": 0.4,
         "pressRT": 0,
         "releaseRT": 0
       },
@@ -2046,7 +2038,7 @@
         "axisType": 0,
         "isWholeFast": false,
         "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
+        "triggerKeyStroke": 0.4,
         "pressRT": 0,
         "releaseRT": 0
       },
@@ -2054,25 +2046,33 @@
         "axisType": 0,
         "isWholeFast": false,
         "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
+        "triggerKeyStroke": 0.4,
         "pressRT": 0,
         "releaseRT": 0
       },
       {
         "axisType": 0,
-        "isWholeFast": true,
+        "isWholeFast": false,
         "isRampageMode": false,
-        "triggerKeyStroke": 0.2,
-        "pressRT": 0.2,
-        "releaseRT": 0.2
+        "triggerKeyStroke": 0.4,
+        "pressRT": 0,
+        "releaseRT": 0
       },
       {
         "axisType": 0,
-        "isWholeFast": true,
+        "isWholeFast": false,
         "isRampageMode": false,
-        "triggerKeyStroke": 0.2,
-        "pressRT": 0.2,
-        "releaseRT": 0.2
+        "triggerKeyStroke": 0.4,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0.4,
+        "pressRT": 0,
+        "releaseRT": 0
       },
       {
         "axisType": 0,
@@ -2150,7 +2150,239 @@
         "axisType": 0,
         "isWholeFast": false,
         "isRampageMode": false,
-        "triggerKeyStroke": 0.5,
+        "triggerKeyStroke": 1.2,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0.8,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0.2,
+        "pressRT": 0.1,
+        "releaseRT": 0.1
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0.3,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 1,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0.8,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 1.2,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 1.2,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 1.2,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 1.2,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 1.2,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 1.2,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 1.2,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 1.2,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 1.2,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 1.2,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 1.2,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0.2,
+        "pressRT": 0.1,
+        "releaseRT": 0.1
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0.2,
+        "pressRT": 0.1,
+        "releaseRT": 0.1
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0.2,
+        "pressRT": 0.1,
+        "releaseRT": 0.1
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0.3,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 0.8,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 1.2,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 1.2,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 1.2,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 1.2,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 1.2,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 1.2,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 1.2,
+        "pressRT": 0,
+        "releaseRT": 0
+      },
+      {
+        "axisType": 0,
+        "isWholeFast": false,
+        "isRampageMode": false,
+        "triggerKeyStroke": 1.2,
         "pressRT": 0,
         "releaseRT": 0
       },
@@ -2302,7 +2534,7 @@
         "axisType": 0,
         "isWholeFast": false,
         "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
+        "triggerKeyStroke": 0.5,
         "pressRT": 0,
         "releaseRT": 0
       },
@@ -2326,239 +2558,7 @@
         "axisType": 0,
         "isWholeFast": false,
         "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
-        "pressRT": 0,
-        "releaseRT": 0
-      },
-      {
-        "axisType": 0,
-        "isWholeFast": false,
-        "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
-        "pressRT": 0,
-        "releaseRT": 0
-      },
-      {
-        "axisType": 0,
-        "isWholeFast": false,
-        "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
-        "pressRT": 0,
-        "releaseRT": 0
-      },
-      {
-        "axisType": 0,
-        "isWholeFast": false,
-        "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
-        "pressRT": 0,
-        "releaseRT": 0
-      },
-      {
-        "axisType": 0,
-        "isWholeFast": false,
-        "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
-        "pressRT": 0,
-        "releaseRT": 0
-      },
-      {
-        "axisType": 0,
-        "isWholeFast": false,
-        "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
-        "pressRT": 0,
-        "releaseRT": 0
-      },
-      {
-        "axisType": 0,
-        "isWholeFast": false,
-        "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
-        "pressRT": 0,
-        "releaseRT": 0
-      },
-      {
-        "axisType": 0,
-        "isWholeFast": false,
-        "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
-        "pressRT": 0,
-        "releaseRT": 0
-      },
-      {
-        "axisType": 0,
-        "isWholeFast": false,
-        "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
-        "pressRT": 0,
-        "releaseRT": 0
-      },
-      {
-        "axisType": 0,
-        "isWholeFast": false,
-        "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
-        "pressRT": 0,
-        "releaseRT": 0
-      },
-      {
-        "axisType": 0,
-        "isWholeFast": false,
-        "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
-        "pressRT": 0,
-        "releaseRT": 0
-      },
-      {
-        "axisType": 0,
-        "isWholeFast": false,
-        "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
-        "pressRT": 0,
-        "releaseRT": 0
-      },
-      {
-        "axisType": 0,
-        "isWholeFast": false,
-        "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
-        "pressRT": 0,
-        "releaseRT": 0
-      },
-      {
-        "axisType": 0,
-        "isWholeFast": false,
-        "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
-        "pressRT": 0,
-        "releaseRT": 0
-      },
-      {
-        "axisType": 0,
-        "isWholeFast": false,
-        "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
-        "pressRT": 0,
-        "releaseRT": 0
-      },
-      {
-        "axisType": 0,
-        "isWholeFast": false,
-        "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
-        "pressRT": 0,
-        "releaseRT": 0
-      },
-      {
-        "axisType": 0,
-        "isWholeFast": false,
-        "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
-        "pressRT": 0,
-        "releaseRT": 0
-      },
-      {
-        "axisType": 0,
-        "isWholeFast": false,
-        "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
-        "pressRT": 0,
-        "releaseRT": 0
-      },
-      {
-        "axisType": 0,
-        "isWholeFast": false,
-        "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
-        "pressRT": 0,
-        "releaseRT": 0
-      },
-      {
-        "axisType": 0,
-        "isWholeFast": false,
-        "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
-        "pressRT": 0,
-        "releaseRT": 0
-      },
-      {
-        "axisType": 0,
-        "isWholeFast": false,
-        "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
-        "pressRT": 0,
-        "releaseRT": 0
-      },
-      {
-        "axisType": 0,
-        "isWholeFast": false,
-        "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
-        "pressRT": 0,
-        "releaseRT": 0
-      },
-      {
-        "axisType": 0,
-        "isWholeFast": false,
-        "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
-        "pressRT": 0,
-        "releaseRT": 0
-      },
-      {
-        "axisType": 0,
-        "isWholeFast": false,
-        "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
-        "pressRT": 0,
-        "releaseRT": 0
-      },
-      {
-        "axisType": 0,
-        "isWholeFast": false,
-        "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
-        "pressRT": 0,
-        "releaseRT": 0
-      },
-      {
-        "axisType": 0,
-        "isWholeFast": false,
-        "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
-        "pressRT": 0,
-        "releaseRT": 0
-      },
-      {
-        "axisType": 0,
-        "isWholeFast": false,
-        "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
-        "pressRT": 0,
-        "releaseRT": 0
-      },
-      {
-        "axisType": 0,
-        "isWholeFast": false,
-        "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
-        "pressRT": 0,
-        "releaseRT": 0
-      },
-      {
-        "axisType": 0,
-        "isWholeFast": false,
-        "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
-        "pressRT": 0,
-        "releaseRT": 0
-      },
-      {
-        "axisType": 0,
-        "isWholeFast": false,
-        "isRampageMode": false,
-        "triggerKeyStroke": 1.2,
+        "triggerKeyStroke": 0.3,
         "pressRT": 0,
         "releaseRT": 0
       },
@@ -3048,17 +3048,9 @@
         },
         {
           "axisType": 0,
-          "isWholeFast": true,
-          "isRampageMode": false,
-          "triggerKeyStroke": 0.2,
-          "pressRT": 0.2,
-          "releaseRT": 0.2
-        },
-        {
-          "axisType": 0,
           "isWholeFast": false,
           "isRampageMode": false,
-          "triggerKeyStroke": 0.5,
+          "triggerKeyStroke": 0.8,
           "pressRT": 0,
           "releaseRT": 0
         },
@@ -3066,7 +3058,7 @@
           "axisType": 0,
           "isWholeFast": false,
           "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
+          "triggerKeyStroke": 0.4,
           "pressRT": 0,
           "releaseRT": 0
         },
@@ -3074,7 +3066,7 @@
           "axisType": 0,
           "isWholeFast": false,
           "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
+          "triggerKeyStroke": 0.4,
           "pressRT": 0,
           "releaseRT": 0
         },
@@ -3082,25 +3074,33 @@
           "axisType": 0,
           "isWholeFast": false,
           "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
+          "triggerKeyStroke": 0.4,
           "pressRT": 0,
           "releaseRT": 0
         },
         {
           "axisType": 0,
-          "isWholeFast": true,
+          "isWholeFast": false,
           "isRampageMode": false,
-          "triggerKeyStroke": 0.2,
-          "pressRT": 0.2,
-          "releaseRT": 0.2
+          "triggerKeyStroke": 0.4,
+          "pressRT": 0,
+          "releaseRT": 0
         },
         {
           "axisType": 0,
-          "isWholeFast": true,
+          "isWholeFast": false,
           "isRampageMode": false,
-          "triggerKeyStroke": 0.2,
-          "pressRT": 0.2,
-          "releaseRT": 0.2
+          "triggerKeyStroke": 0.4,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0.4,
+          "pressRT": 0,
+          "releaseRT": 0
         },
         {
           "axisType": 0,
@@ -3178,7 +3178,239 @@
           "axisType": 0,
           "isWholeFast": false,
           "isRampageMode": false,
-          "triggerKeyStroke": 0.5,
+          "triggerKeyStroke": 1.2,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0.8,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0.2,
+          "pressRT": 0.1,
+          "releaseRT": 0.1
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0.3,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 1,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0.8,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 1.2,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 1.2,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 1.2,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 1.2,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 1.2,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 1.2,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 1.2,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 1.2,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 1.2,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 1.2,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 1.2,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0.2,
+          "pressRT": 0.1,
+          "releaseRT": 0.1
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0.2,
+          "pressRT": 0.1,
+          "releaseRT": 0.1
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0.2,
+          "pressRT": 0.1,
+          "releaseRT": 0.1
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0.3,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 0.8,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 1.2,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 1.2,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 1.2,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 1.2,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 1.2,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 1.2,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 1.2,
+          "pressRT": 0,
+          "releaseRT": 0
+        },
+        {
+          "axisType": 0,
+          "isWholeFast": false,
+          "isRampageMode": false,
+          "triggerKeyStroke": 1.2,
           "pressRT": 0,
           "releaseRT": 0
         },
@@ -3330,7 +3562,7 @@
           "axisType": 0,
           "isWholeFast": false,
           "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
+          "triggerKeyStroke": 0.5,
           "pressRT": 0,
           "releaseRT": 0
         },
@@ -3354,239 +3586,7 @@
           "axisType": 0,
           "isWholeFast": false,
           "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
-          "pressRT": 0,
-          "releaseRT": 0
-        },
-        {
-          "axisType": 0,
-          "isWholeFast": false,
-          "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
-          "pressRT": 0,
-          "releaseRT": 0
-        },
-        {
-          "axisType": 0,
-          "isWholeFast": false,
-          "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
-          "pressRT": 0,
-          "releaseRT": 0
-        },
-        {
-          "axisType": 0,
-          "isWholeFast": false,
-          "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
-          "pressRT": 0,
-          "releaseRT": 0
-        },
-        {
-          "axisType": 0,
-          "isWholeFast": false,
-          "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
-          "pressRT": 0,
-          "releaseRT": 0
-        },
-        {
-          "axisType": 0,
-          "isWholeFast": false,
-          "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
-          "pressRT": 0,
-          "releaseRT": 0
-        },
-        {
-          "axisType": 0,
-          "isWholeFast": false,
-          "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
-          "pressRT": 0,
-          "releaseRT": 0
-        },
-        {
-          "axisType": 0,
-          "isWholeFast": false,
-          "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
-          "pressRT": 0,
-          "releaseRT": 0
-        },
-        {
-          "axisType": 0,
-          "isWholeFast": false,
-          "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
-          "pressRT": 0,
-          "releaseRT": 0
-        },
-        {
-          "axisType": 0,
-          "isWholeFast": false,
-          "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
-          "pressRT": 0,
-          "releaseRT": 0
-        },
-        {
-          "axisType": 0,
-          "isWholeFast": false,
-          "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
-          "pressRT": 0,
-          "releaseRT": 0
-        },
-        {
-          "axisType": 0,
-          "isWholeFast": false,
-          "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
-          "pressRT": 0,
-          "releaseRT": 0
-        },
-        {
-          "axisType": 0,
-          "isWholeFast": false,
-          "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
-          "pressRT": 0,
-          "releaseRT": 0
-        },
-        {
-          "axisType": 0,
-          "isWholeFast": false,
-          "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
-          "pressRT": 0,
-          "releaseRT": 0
-        },
-        {
-          "axisType": 0,
-          "isWholeFast": false,
-          "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
-          "pressRT": 0,
-          "releaseRT": 0
-        },
-        {
-          "axisType": 0,
-          "isWholeFast": false,
-          "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
-          "pressRT": 0,
-          "releaseRT": 0
-        },
-        {
-          "axisType": 0,
-          "isWholeFast": false,
-          "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
-          "pressRT": 0,
-          "releaseRT": 0
-        },
-        {
-          "axisType": 0,
-          "isWholeFast": false,
-          "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
-          "pressRT": 0,
-          "releaseRT": 0
-        },
-        {
-          "axisType": 0,
-          "isWholeFast": false,
-          "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
-          "pressRT": 0,
-          "releaseRT": 0
-        },
-        {
-          "axisType": 0,
-          "isWholeFast": false,
-          "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
-          "pressRT": 0,
-          "releaseRT": 0
-        },
-        {
-          "axisType": 0,
-          "isWholeFast": false,
-          "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
-          "pressRT": 0,
-          "releaseRT": 0
-        },
-        {
-          "axisType": 0,
-          "isWholeFast": false,
-          "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
-          "pressRT": 0,
-          "releaseRT": 0
-        },
-        {
-          "axisType": 0,
-          "isWholeFast": false,
-          "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
-          "pressRT": 0,
-          "releaseRT": 0
-        },
-        {
-          "axisType": 0,
-          "isWholeFast": false,
-          "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
-          "pressRT": 0,
-          "releaseRT": 0
-        },
-        {
-          "axisType": 0,
-          "isWholeFast": false,
-          "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
-          "pressRT": 0,
-          "releaseRT": 0
-        },
-        {
-          "axisType": 0,
-          "isWholeFast": false,
-          "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
-          "pressRT": 0,
-          "releaseRT": 0
-        },
-        {
-          "axisType": 0,
-          "isWholeFast": false,
-          "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
-          "pressRT": 0,
-          "releaseRT": 0
-        },
-        {
-          "axisType": 0,
-          "isWholeFast": false,
-          "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
-          "pressRT": 0,
-          "releaseRT": 0
-        },
-        {
-          "axisType": 0,
-          "isWholeFast": false,
-          "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
-          "pressRT": 0,
-          "releaseRT": 0
-        },
-        {
-          "axisType": 0,
-          "isWholeFast": false,
-          "isRampageMode": false,
-          "triggerKeyStroke": 1.2,
+          "triggerKeyStroke": 0.3,
           "pressRT": 0,
           "releaseRT": 0
         },
