@@ -168,7 +168,7 @@ Importer `cfg/Keyboard-cfg-byclaude.json` dans le logiciel **Attack Shark**
 - [ ] Panneau NVIDIA configuré
 - [ ] Mode alimentation Windows → Performances élevées
 - [ ] Souris : 800 DPI / 2000Hz / Angle Snap OFF
-- [ ] Clavier M36HE : importer `cfg/Keyboard-cfg-byclaude.json`
+- [ ] Clavier M36HE : importer `cfg/M36HE-CS2.json`
 
 ---
 
