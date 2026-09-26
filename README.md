@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🚀 CS2 PRO LOW LATENCY CONFIG
-### by.jkz — v4.0
+# 🎮 CS2 PRO LOW LATENCY CONFIG
+### by.jkz — v4.1
 
 ![CS2](https://img.shields.io/badge/Game-Counter--Strike%202-orange?style=flat-square)
-![Version](https://img.shields.io/badge/Version-4.0-blue?style=flat-square)
+![Version](https://img.shields.io/badge/Version-4.1-blue?style=flat-square)
 ![Updated](https://img.shields.io/badge/Updated-Septembre%202026-green?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
@@ -18,14 +18,14 @@ Auditée depuis les fichiers Steam réels — 100% reproductible
 ## 📁 Structure du repo
 
 ```
-cs2-config-by-jkz/
+CS2-Config/
 ├── README.md                          ← Ce fichier
 ├── autoexec.cfg                       ← Config principale CS2
 ├── cs2_video.txt                      ← Paramètres vidéo optimisés
-├── .gitignore
 ├── cfg/
-│   ├── cs2_user_convars_0_slot0.vcfg  ← Crosshair + sensibilité garantis
-│   └── cs2_user_keys_0_slot0.vcfg    ← Binds garantis
+│   ├── cs2_user_convars_0_slot0.vcfg  ← Crosshair + sensibilité (Steam)
+│   ├── cs2_user_keys_0_slot0.vcfg     ← Binds (Steam)
+│   └── Keyboard-cfg-byclaude.json    ← Profil clavier M36HE (Attack Shark)
 └── docs/
     ├── installation.md                ← Guide d'installation détaillé
     ├── hardware.md                    ← Setup hardware + NVIDIA
@@ -48,13 +48,16 @@ C:\Program Files (x86)\Steam\userdata\[TON_STEAM_ID]\730\local\cfg\
 > ⚠️ Remplace `[TON_STEAM_ID]` par ton propre Steam ID  
 > ⚠️ Mets `cs2_video.txt` en **lecture seule** après installation
 
-### 3️⃣ Options de lancement Steam
+### 3️⃣ Profil clavier M36HE
+Importer `cfg/Keyboard-cfg-byclaude.json` dans le logiciel **Attack Shark**
+
+### 4️⃣ Options de lancement Steam
 ```
 -novid +fps_max 240 +exec autoexec.cfg -allow_third_party_software -nojoy
 ```
 > Adapte `fps_max` selon ton Hz : 120Hz→240 / 144Hz→288 / 240Hz→480 / 360Hz→720
 
-📖 [Guide d'installation complet](docs/installation.md)
+📄 [Guide d'installation complet](docs/installation.md)
 
 ---
 
@@ -78,12 +81,12 @@ C:\Program Files (x86)\Steam\userdata\[TON_STEAM_ID]\730\local\cfg\
 |---|---|
 | Style | 2 — Statique |
 | Taille | 1.5 |
-| Gap | -2 (mobile selon arme) |
+| Gap | -2 (fixe) |
 | Couleur | Cyan (R:50 G:255 B:255) |
 | Contour | Oui |
 | Recoil | Non |
 
-📖 [Détails crosshair](docs/crosshair.md)
+📄 [Détails crosshair](docs/crosshair.md)
 
 ---
 
@@ -92,7 +95,7 @@ C:\Program Files (x86)\Steam\userdata\[TON_STEAM_ID]\730\local\cfg\
 | Paramètre | Valeur |
 |---|---|
 | DPI | **800** |
-| Sensitivity in-game | **1.25** (sensitivity 1.25) |
+| Sensitivity in-game | **1.25** |
 | eDPI | **1000** |
 | Polling rate | **2000Hz** |
 | Angle Snap | **OFF** |
@@ -128,6 +131,21 @@ C:\Program Files (x86)\Steam\userdata\[TON_STEAM_ID]\730\local\cfg\
 
 ---
 
+## ⌨️ Clavier M36HE — Profil Hall Effect
+
+| Touche | Trigger | Fast Trigger |
+|---|---|---|
+| W / A / S / D | 0.2mm | ✅ ON (sensitivity 0.2mm) |
+| E / F / L-Shift / Space | 0.3mm | ❌ |
+| L-Ctrl | 0.5mm | ❌ |
+| 1 / 2 / 3 / 4 / 5 | 0.4mm | ❌ |
+| Q / G / Esc / F1-F6 | 0.8mm | ❌ |
+| Reste | 1.2mm | ❌ |
+
+> SOCD activé sur A+D (Snap Tap)
+
+---
+
 ## 🎮 Setup Hardware
 
 | Composant | Modèle |
@@ -135,7 +153,7 @@ C:\Program Files (x86)\Steam\userdata\[TON_STEAM_ID]\730\local\cfg\
 | Souris | Attack Shark R5 Ultra 8K PAW3950MAX |
 | Clavier | Attack Shark M36HE (Hall Effect) |
 
-📖 [Détails hardware + NVIDIA](docs/hardware.md)
+📄 [Détails hardware + NVIDIA](docs/hardware.md)
 
 ---
 
@@ -150,12 +168,12 @@ C:\Program Files (x86)\Steam\userdata\[TON_STEAM_ID]\730\local\cfg\
 - [ ] Panneau NVIDIA configuré
 - [ ] Mode alimentation Windows → Performances élevées
 - [ ] Souris : 800 DPI / 2000Hz / Angle Snap OFF
-- [ ] Clavier M36HE : importer profil `jkz`
+- [ ] Clavier M36HE : importer `cfg/Keyboard-cfg-byclaude.json`
 
 ---
 
 <div align="center">
 
-*Config v4.0 — Auditée depuis les fichiers Steam réels — Septembre 2026*
+*Config v4.1 — Auditée depuis les fichiers Steam réels — septembre 2026*
 
 </div>
